@@ -1,2 +1,2 @@
-# pizza-website-bootstrap
-Responsive pizza website using HTML, CSS and Bootstrap.
+## Live Demo
+https://Janhavi1512.github.io/pizza-website-bootstrap/
